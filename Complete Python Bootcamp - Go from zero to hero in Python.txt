@@ -1,0 +1,157 @@
+=> Course Overview
+	-> Why Learn Python?
+		-> Python is one of the most useful programming languages to know
+		-> Easy to learn and very powerful
+
+	-> Python 2 vs Python 3
+		-> Python 2
+			-> Started in 2000 
+			-> Python 2.7 was released in mid-2010
+			-> Will lose support in 2020
+			-> Extensive library support
+			-> Python 2.7 is still most widely used version of Python around 81%
+
+		-> Python 3
+			-> Released in 2008
+			-> More and more libraries are beginning to support Python 3 but not all
+			-> Similar to Python 2 with some syntactical differences
+
+
+=> Python Setup
+
+	-> Course Installation Steps:
+
+		1) Go to the Jupyter Website 
+			http://jupyter.org/
+	    2) Scroll down and and click the Install the Notebook button
+	    3) The button will take you to the installation documentation.
+	    	http://jupyter.readthedocs.org/en/latest/install.html
+	    4) This in turn should take you to the Anaconda Installation page, go to the Anaconda Installation page and click on the Graphical Installer for your system to download the installer.
+	    	https://www.continuum.io/downloads
+	    5) Follow the directions for the graphical installer you chose, it should be straight-forward, just like installing any other software, keep any default options.
+	    6) Once you've successfully downloaded Anaconda you can begin with the installation commands for Jupyter. All installation commands should be run in the Terminal (for Mac and Linux) or the Command Prompt/Powershell (Windows). (Mac users should just search for terminal in Spotlight search, Windows Users just search for either powershell or cmd in your windows search tool to find your appropriate installation tool). You also have the option of using the Anaconda Command Prompt as shown in the videos.
+	    7) Once the installation is done, in your terminal/command prompt type: 
+	    	jupyter notebook
+	    8) You should eventually see a new tab open up in your browser for you to begin using Jupyter Notebooks. Don't worry if your tab says something like "Conda [Root]" or "Python Default", either of these options will work fine. You can click on these to start a new
+	    9) For more information on how to use the Jupyter Notebooks, refer to the other lectures in this section.
+	    10) For more information on the Jupyter Notebook system in general, check out the official documentation.
+	    	http://jupyter.readthedocs.org/en/latest/tryjupyter.html
+
+    -> Running Jupyter
+     	-> Open CMD and run
+    		jupyter notebook
+ 		-> This should run jupyter server at http://localhost:8888/tree?
+ 		-> Open new Python 2 Notebook
+ 		-> Shift+Enter to run a cell
+ 		-> Tab to see available functions 
+
+ 	-> Choose you Python IDE
+ 		-> Text Editors
+ 			-> Sublime Text
+ 			-> Notepad++
+ 		-> Komodo
+ 		-> Wingware
+ 		-> Pycharm
+ 		-> Spyder
+ 		-> Jupyter*** 
+
+ 	-> You can try jupyter online at
+ 		https://try.jupyter.org/
+
+ 	-> Lecture Notes***
+ 		http://nbviewer.jupyter.org/github/jmportilla/Complete-Python-Bootcamp/tree/master/
+
+
+=> Python Object and Data Structure Basics
+	-> Numbers
+		Refer: "13. Numbers.ipynb"
+	-> Strings
+		Refer: "15. Strings.ipynb"
+	-> Print Formatting
+		Refer: "17. Print Formatting.ipynb"
+		Refer: https://pyformat.info/
+	-> Lists
+		Refer "19. Lists.ipynb"
+	-> Dictionaries
+		Refer "21. Dictionaries.ipynb"
+	-> Tuples
+		Refer "23. Tuples.ipynb"
+	-> Files
+		Refer "24. Files.ipynb"
+	-> Sets and Booleans
+		Refer "25. Sets and Booleans.ipynb"
+	-> Objects and Data Structures Assessment Test
+		Refer "27. Objects and Data Structures Assessment Test.ipynb"
+	-> Objects and Data Structures Assessment Test-Solution
+		Refer "28. Objects and Data Structures Assessment Test-Solution.ipynb"
+
+	-> References for More Practice
+		http://codingbat.com/python
+
+		https://projecteuler.net/archives
+
+		http://www.codeabbey.com/index/task_list
+
+		https://www.reddit.com/r/dailyprogrammer
+
+=> Python Comparision Operators
+	-> Comparision Operators
+		Refer "29. Comparision Operators.ipynb"
+	-> Chained Comparision Operators
+		Refer "30. Chained Comparision Operators.ipynb"
+
+=> Python Statements
+	-> Introduction to Python Statements
+		Refer "31. Introduction to Python Statements.ipynb"
+	-> If, elif, and else Statements
+		Refer "32. If, elif, and else Statements.ipynb"
+	-> For Loops
+		Refer "33. For Loops.ipynb"
+	-> While Loops
+		Refer "34. While Loops.ipynb"
+	-> Range()
+		Refer "35. Range().ipynb"
+	-> List Comprehensions
+		Refer "36. List Comprehensions.ipynb"
+	-> Statements Assessment Test
+		Refer "37. Statements Assessment Test.ipynb"
+	-> Statements Assessment Test-Solution
+		Refer "38. Statements Assessment Test-Solution.ipynb"
+
+=> Methods and Functions
+	-> Methods
+		Refer "39. Methods.ipynb"
+	-> Functions
+		Refer "40. Functions.ipynb"
+	-> Lambda Expressions
+		Refer "41. Lambda Expressions.ipynb"
+	-> Nested Statements and Scope
+		Refer "42. Nested Statements and Scope.ipynb"
+	-> Functions and Methods Homework
+		Refer "43. Functions and Methods Homework.ipynb"
+	-> Functions and Methods Homework-Solutions
+		Refer "45. Functions and Methods Homework - Solutions.ipynb"
+
+=> Milestone Project - 1
+
+=> Object Oriented Programming
+
+=> Errors and Exceptions Handling
+
+=> Milestone Project - 2
+
+=> Module and Packages
+
+=> Built-in Functions
+
+=> Python Decorators
+
+=> Python Generators
+
+=> Final Capstone Python Project
+
+=> Advanced Python Objects and Data Structures
+
+=> Bonus Material - Introduction to GUIs
+
+=> Bonus Special Offers
